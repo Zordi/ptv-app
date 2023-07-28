@@ -1,0 +1,8 @@
+workflows:
+  flutter_build:
+    name: Flutter Build
+    environment:
+      flutter: latest
+    scripts:
+      - name: Build APK without sound null safety
+        script: flutter build apk --no-sound-null-safety

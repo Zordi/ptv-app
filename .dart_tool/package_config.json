@@ -200,6 +200,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "currencies",
+      "rootUri": "file:///C:/Users/zordi/AppData/Local/Pub/Cache/hosted/pub.dev/currencies-0.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "dart_ipify",
       "rootUri": "file:///C:/Users/zordi/AppData/Local/Pub/Cache/hosted/pub.dev/dart_ipify-1.1.1",
       "packageUri": "lib/",
@@ -1436,7 +1442,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-07-28T02:36:19.861268Z",
+  "generated": "2023-07-28T03:53:16.706672Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
