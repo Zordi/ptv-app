@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">543877898496-tk3bikqjfeq8ib9d5srkdalrm46pqtfr.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">543877898496</string>
+    <string name="google_api_key" translatable="false">AIzaSyCswzAr4wXGgtH9P5O04WR_wd7d_TbSg2E</string>
+    <string name="google_app_id" translatable="false">1:543877898496:android:db192407a0d9154b2fd3e5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCswzAr4wXGgtH9P5O04WR_wd7d_TbSg2E</string>
+    <string name="google_storage_bucket" translatable="false">ptv-mobile-4c7e6.appspot.com</string>
+    <string name="project_id" translatable="false">ptv-mobile-4c7e6</string>
+</resources>

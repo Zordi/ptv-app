@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/mtrl_extended_fab_change_size_motion_spec.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/mtrl_extended_fab_change_size_motion_spec.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/mtrl_btn_state_list_anim.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/design_fab_hide_motion_spec.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/design_fab_show_motion_spec.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/mtrl_fab_show_motion_spec.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/mtrl_chip_state_list_anim.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/mtrl_extended_fab_state_list_animator.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/mtrl_extended_fab_state_list_animator.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/mtrl_extended_fab_show_motion_spec.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/mtrl_extended_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/mtrl_extended_fab_hide_motion_spec.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/mtrl_extended_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/mtrl_fab_hide_motion_spec.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/animator/mtrl_card_state_list_anim.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/animator/mtrl_card_state_list_anim.xml"
+    }
+]

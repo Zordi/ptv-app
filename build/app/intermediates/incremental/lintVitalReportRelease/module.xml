@@ -1,0 +1,25 @@
+<lint-module
+    format="1"
+    dir="D:\Tekno\PTV\PTV App\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.4.0"
+    buildFolder="D:\Tekno\PTV\PTV App\build\app"
+    bootClassPath="C:\Users\zordi\AppData\Local\Android\sdk\platforms\android-33\android.jar;C:\Users\zordi\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

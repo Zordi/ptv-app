@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

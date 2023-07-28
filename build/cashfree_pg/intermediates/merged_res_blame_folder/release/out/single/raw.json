@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/raw/cashfree_pay_form.html",
+        "source": "com.cashfree.cashfree_pg-jetified-android-sdk-1.7.28-23:/raw/cashfree_pay_form.html"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/raw/google_pay_inapp_api_config.properties",
+        "source": "com.cashfree.cashfree_pg-jetified-gpay-sdk-1.0.0-13:/raw/google_pay_inapp_api_config.properties"
+    }
+]

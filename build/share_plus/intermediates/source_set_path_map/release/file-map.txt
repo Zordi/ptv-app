@@ -1,0 +1,14 @@
+dev.fluttercommunity.plus.share.share_plus-jetified-window-1.0.0-beta04-0 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+dev.fluttercommunity.plus.share.share_plus-jetified-annotation-experimental-1.3.0-1 C:\Users\zordi\.gradle\caches\transforms-3\432eef29da4aeccea60c7292ae0a5684\transformed\jetified-annotation-experimental-1.3.0\res
+dev.fluttercommunity.plus.share.share_plus-jetified-window-java-1.0.0-beta04-2 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+dev.fluttercommunity.plus.share.share_plus-core-1.9.0-3 C:\Users\zordi\.gradle\caches\transforms-3\b8ebedc19aff288b59a40afdaede7ae5\transformed\core-1.9.0\res
+dev.fluttercommunity.plus.share.share_plus-lifecycle-runtime-2.3.1-4 C:\Users\zordi\.gradle\caches\transforms-3\e272ebcd6ae79ed8326c13e7e97054b4\transformed\lifecycle-runtime-2.3.1\res
+dev.fluttercommunity.plus.share.share_plus-jetified-core-ktx-1.9.0-5 C:\Users\zordi\.gradle\caches\transforms-3\ecbb9781831f9214da3d4375dc356a12\transformed\jetified-core-ktx-1.9.0\res
+dev.fluttercommunity.plus.share.share_plus-main-6 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-6.3.4\android\src\main\res
+dev.fluttercommunity.plus.share.share_plus-release-7 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-6.3.4\android\src\release\res
+dev.fluttercommunity.plus.share.share_plus-pngs-8 D:\Tekno\PTV\PTV App\build\share_plus\generated\res\pngs\release
+dev.fluttercommunity.plus.share.share_plus-resValues-9 D:\Tekno\PTV\PTV App\build\share_plus\generated\res\resValues\release
+dev.fluttercommunity.plus.share.share_plus-rs-10 D:\Tekno\PTV\PTV App\build\share_plus\generated\res\rs\release
+dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-11 D:\Tekno\PTV\PTV App\build\share_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-12 D:\Tekno\PTV\PTV App\build\share_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.plus.share.share_plus-merged_res-13 D:\Tekno\PTV\PTV App\build\share_plus\intermediates\merged_res\release

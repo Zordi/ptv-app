@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543877898496",
+    "project_id": "ptv-mobile-4c7e6",
+    "storage_bucket": "ptv-mobile-4c7e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543877898496:android:db192407a0d9154b2fd3e5",
+        "android_client_info": {
+          "package_name": "com.ptv.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543877898496-tk3bikqjfeq8ib9d5srkdalrm46pqtfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCswzAr4wXGgtH9P5O04WR_wd7d_TbSg2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543877898496-tk3bikqjfeq8ib9d5srkdalrm46pqtfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.razorpay.razorpay_flutter-merged_res-18:/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zordi\\.gradle\\caches\\transforms-3\\bd7ab80df1db0a38ef84ffbfdecf51ce\\transformed\\core-1.6.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zordi\\.gradle\\caches\\transforms-3\\3660c83ee4d88f80b7620d067a197727\\transformed\\jetified-play-services-wallet-18.1.3\\res\\values-en-rIN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "206",
+                        "endColumns": "70",
+                        "endOffsets": "276"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "156",
+                        "endColumns": "74",
+                        "endOffsets": "226"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.razorpay.razorpay_flutter-mergeReleaseResources-16:/values-en-rIN/values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zordi\\.gradle\\caches\\transforms-3\\bd7ab80df1db0a38ef84ffbfdecf51ce\\transformed\\core-1.6.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zordi\\.gradle\\caches\\transforms-3\\3660c83ee4d88f80b7620d067a197727\\transformed\\jetified-play-services-wallet-18.1.3\\res\\values-en-rIN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "206",
+                        "endColumns": "70",
+                        "endOffsets": "276"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "156",
+                        "endColumns": "74",
+                        "endOffsets": "226"
+                    }
+                }
+            ]
+        }
+    ]
+}

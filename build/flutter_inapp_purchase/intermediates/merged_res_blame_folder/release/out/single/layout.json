@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-core-1.6.0-3:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-merged_res-10:/layout/custom_dialog.xml",
+        "source": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-core-1.6.0-3:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-core-1.6.0-3:/layout/notification_template_part_chronometer.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/layout-v21/notification_template_icon_group.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-core-1.6.0-16:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/layout-v21/notification_action.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-core-1.6.0-16:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/layout-v21/notification_template_custom_big.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-core-1.6.0-16:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/layout-v21/notification_action_tombstone.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-core-1.6.0-16:/layout-v21/notification_action_tombstone.xml"
+    }
+]

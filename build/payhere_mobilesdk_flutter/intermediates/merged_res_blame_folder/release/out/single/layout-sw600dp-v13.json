@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    }
+]

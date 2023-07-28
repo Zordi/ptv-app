@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-fragment-1.3.1-15:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    }
+]

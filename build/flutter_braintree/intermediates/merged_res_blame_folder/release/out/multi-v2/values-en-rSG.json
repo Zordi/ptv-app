@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.flutter_braintree-mergeReleaseResources-28:/values-en-rSG/values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zordi\\.gradle\\caches\\transforms-3\\6fa6d573802d3d9a096aaa64dfbb1dfd\\transformed\\jetified-play-services-wallet-16.0.1\\res\\values-en-rSG\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "204",
+                        "endColumns": "99",
+                        "endOffsets": "303"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.flutter_braintree-merged_res-30:/values-en-rSG/values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zordi\\.gradle\\caches\\transforms-3\\6fa6d573802d3d9a096aaa64dfbb1dfd\\transformed\\jetified-play-services-wallet-16.0.1\\res\\values-en-rSG\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "204",
+                        "endColumns": "99",
+                        "endOffsets": "303"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}

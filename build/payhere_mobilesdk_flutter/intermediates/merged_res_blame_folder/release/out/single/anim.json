@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/abc_popup_exit.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/abc_slide_out_top.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/btn_checkbox_to_checked_icon_null_animation.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/fragment_fast_out_extra_slow_in.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-fragment-1.3.1-15:/anim/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/design_bottom_sheet_slide_out.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/abc_slide_in_top.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/abc_fade_out.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/mtrl_bottom_sheet_slide_in.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/anim/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/abc_fade_in.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/btn_radio_to_on_mtrl_dot_group_animation.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/abc_tooltip_enter.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/btn_checkbox_to_unchecked_icon_null_animation.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/btn_radio_to_off_mtrl_dot_group_animation.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/abc_slide_in_bottom.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/design_snackbar_in.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/mtrl_card_lowers_interpolator.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/anim/mtrl_card_lowers_interpolator.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/abc_tooltip_exit.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/abc_slide_out_bottom.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/design_snackbar_out.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/design_bottom_sheet_slide_in.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/mtrl_bottom_sheet_slide_out.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/anim/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/anim/abc_popup_enter.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/anim/abc_popup_enter.xml"
+    }
+]

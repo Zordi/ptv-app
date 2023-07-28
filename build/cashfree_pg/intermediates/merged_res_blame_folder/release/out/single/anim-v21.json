@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "com.cashfree.cashfree_pg-fragment-1.3.0-alpha08-9:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    }
+]

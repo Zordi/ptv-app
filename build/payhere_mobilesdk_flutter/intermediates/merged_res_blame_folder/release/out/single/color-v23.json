@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/color-v23/abc_tint_switch_track.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/color-v23/abc_tint_default.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/color-v23/abc_tint_spinner.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/color-v23/abc_color_highlight_material.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/color-v23/abc_tint_edittext.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/color-v23/abc_tint_edittext.xml"
+    }
+]

@@ -1,0 +1,24 @@
+app.meedu.flutter_facebook_auth-lifecycle-viewmodel-2.3.0-0 C:\Users\zordi\.gradle\caches\transforms-3\2b50068f8fcab6d60f250461a0855894\transformed\lifecycle-viewmodel-2.3.0\res
+app.meedu.flutter_facebook_auth-jetified-window-1.0.0-beta04-1 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+app.meedu.flutter_facebook_auth-cardview-1.0.0-2 C:\Users\zordi\.gradle\caches\transforms-3\3cf063776cbb9ac668230638b58204c3\transformed\cardview-1.0.0\res
+app.meedu.flutter_facebook_auth-jetified-appcompat-resources-1.1.0-3 C:\Users\zordi\.gradle\caches\transforms-3\5bbd03f001c7daf0c2f458b938735204\transformed\jetified-appcompat-resources-1.1.0\res
+app.meedu.flutter_facebook_auth-jetified-window-java-1.0.0-beta04-4 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+app.meedu.flutter_facebook_auth-appcompat-1.1.0-5 C:\Users\zordi\.gradle\caches\transforms-3\76a528357a627c18d0cfc147526692a5\transformed\appcompat-1.1.0\res
+app.meedu.flutter_facebook_auth-jetified-facebook-common-15.0.2-6 C:\Users\zordi\.gradle\caches\transforms-3\8ca527417582e2ebd931d2c5884609f5\transformed\jetified-facebook-common-15.0.2\res
+app.meedu.flutter_facebook_auth-browser-1.0.0-7 C:\Users\zordi\.gradle\caches\transforms-3\8dc230ef32ceeee7d1a1c6fa7b797081\transformed\browser-1.0.0\res
+app.meedu.flutter_facebook_auth-jetified-annotation-experimental-1.1.0-8 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+app.meedu.flutter_facebook_auth-jetified-savedstate-1.1.0-9 C:\Users\zordi\.gradle\caches\transforms-3\98b392bb83b0ec1fa191808ee3355e07\transformed\jetified-savedstate-1.1.0\res
+app.meedu.flutter_facebook_auth-lifecycle-runtime-2.3.0-10 C:\Users\zordi\.gradle\caches\transforms-3\9ea92290088bc7983f9b50197d456b1a\transformed\lifecycle-runtime-2.3.0\res
+app.meedu.flutter_facebook_auth-jetified-facebook-login-15.0.2-11 C:\Users\zordi\.gradle\caches\transforms-3\a9895271374a3f92d138c2d225e2550d\transformed\jetified-facebook-login-15.0.2\res
+app.meedu.flutter_facebook_auth-coordinatorlayout-1.0.0-12 C:\Users\zordi\.gradle\caches\transforms-3\b4e237b7de189897bcdaac4ca09268b3\transformed\coordinatorlayout-1.0.0\res
+app.meedu.flutter_facebook_auth-core-1.6.0-13 C:\Users\zordi\.gradle\caches\transforms-3\bd7ab80df1db0a38ef84ffbfdecf51ce\transformed\core-1.6.0\res
+app.meedu.flutter_facebook_auth-media-1.0.0-14 C:\Users\zordi\.gradle\caches\transforms-3\e03f74d87827e4a81c2ea8a850cf4fd1\transformed\media-1.0.0\res
+app.meedu.flutter_facebook_auth-fragment-1.3.0-15 C:\Users\zordi\.gradle\caches\transforms-3\fa97f6fbf77c39b7379469336d716b94\transformed\fragment-1.3.0\res
+app.meedu.flutter_facebook_auth-main-16 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_facebook_auth-5.0.6\android\src\main\res
+app.meedu.flutter_facebook_auth-release-17 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_facebook_auth-5.0.6\android\src\release\res
+app.meedu.flutter_facebook_auth-pngs-18 D:\Tekno\PTV\PTV App\build\flutter_facebook_auth\generated\res\pngs\release
+app.meedu.flutter_facebook_auth-resValues-19 D:\Tekno\PTV\PTV App\build\flutter_facebook_auth\generated\res\resValues\release
+app.meedu.flutter_facebook_auth-rs-20 D:\Tekno\PTV\PTV App\build\flutter_facebook_auth\generated\res\rs\release
+app.meedu.flutter_facebook_auth-mergeReleaseResources-21 D:\Tekno\PTV\PTV App\build\flutter_facebook_auth\intermediates\incremental\release\mergeReleaseResources\merged.dir
+app.meedu.flutter_facebook_auth-mergeReleaseResources-22 D:\Tekno\PTV\PTV App\build\flutter_facebook_auth\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+app.meedu.flutter_facebook_auth-merged_res-23 D:\Tekno\PTV\PTV App\build\flutter_facebook_auth\intermediates\merged_res\release

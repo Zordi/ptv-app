@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.az.upi_india-merged_res-10:/layout/notification_template_icon_group.xml",
+        "source": "com.az.upi_india-core-1.6.0-3:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.az.upi_india-merged_res-10:/layout/notification_action_tombstone.xml",
+        "source": "com.az.upi_india-core-1.6.0-3:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.az.upi_india-merged_res-10:/layout/notification_action.xml",
+        "source": "com.az.upi_india-core-1.6.0-3:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.az.upi_india-merged_res-10:/layout/custom_dialog.xml",
+        "source": "com.az.upi_india-core-1.6.0-3:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.az.upi_india-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "com.az.upi_india-core-1.6.0-3:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.az.upi_india-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "com.az.upi_india-core-1.6.0-3:/layout/notification_template_part_time.xml"
+    }
+]

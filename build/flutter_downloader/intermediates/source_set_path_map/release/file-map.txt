@@ -1,0 +1,18 @@
+vn.hunghd.flutterdownloader.flutter_downloader-lifecycle-viewmodel-2.3.1-0 C:\Users\zordi\.gradle\caches\transforms-3\01c934254d3696dbe824fc0415581aa6\transformed\lifecycle-viewmodel-2.3.1\res
+vn.hunghd.flutterdownloader.flutter_downloader-jetified-window-1.0.0-beta04-1 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+vn.hunghd.flutterdownloader.flutter_downloader-jetified-startup-runtime-1.0.0-2 C:\Users\zordi\.gradle\caches\transforms-3\4243018ce6cd898e09cce1ec9569d294\transformed\jetified-startup-runtime-1.0.0\res
+vn.hunghd.flutterdownloader.flutter_downloader-jetified-window-java-1.0.0-beta04-3 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+vn.hunghd.flutterdownloader.flutter_downloader-jetified-annotation-experimental-1.1.0-4 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+vn.hunghd.flutterdownloader.flutter_downloader-fragment-1.3.6-5 C:\Users\zordi\.gradle\caches\transforms-3\972045a39b671b25523eae253bb4adbb\transformed\fragment-1.3.6\res
+vn.hunghd.flutterdownloader.flutter_downloader-jetified-savedstate-1.1.0-6 C:\Users\zordi\.gradle\caches\transforms-3\98b392bb83b0ec1fa191808ee3355e07\transformed\jetified-savedstate-1.1.0\res
+vn.hunghd.flutterdownloader.flutter_downloader-work-runtime-2.7.1-7 C:\Users\zordi\.gradle\caches\transforms-3\bd33c9148b8b2242855d1b6ab459a00a\transformed\work-runtime-2.7.1\res
+vn.hunghd.flutterdownloader.flutter_downloader-core-1.6.0-8 C:\Users\zordi\.gradle\caches\transforms-3\bd7ab80df1db0a38ef84ffbfdecf51ce\transformed\core-1.6.0\res
+vn.hunghd.flutterdownloader.flutter_downloader-lifecycle-runtime-2.3.1-9 C:\Users\zordi\.gradle\caches\transforms-3\e272ebcd6ae79ed8326c13e7e97054b4\transformed\lifecycle-runtime-2.3.1\res
+vn.hunghd.flutterdownloader.flutter_downloader-main-10 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_downloader-1.8.0\android\src\main\res
+vn.hunghd.flutterdownloader.flutter_downloader-release-11 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_downloader-1.8.0\android\src\release\res
+vn.hunghd.flutterdownloader.flutter_downloader-pngs-12 D:\Tekno\PTV\PTV App\build\flutter_downloader\generated\res\pngs\release
+vn.hunghd.flutterdownloader.flutter_downloader-resValues-13 D:\Tekno\PTV\PTV App\build\flutter_downloader\generated\res\resValues\release
+vn.hunghd.flutterdownloader.flutter_downloader-rs-14 D:\Tekno\PTV\PTV App\build\flutter_downloader\generated\res\rs\release
+vn.hunghd.flutterdownloader.flutter_downloader-mergeReleaseResources-15 D:\Tekno\PTV\PTV App\build\flutter_downloader\intermediates\incremental\release\mergeReleaseResources\merged.dir
+vn.hunghd.flutterdownloader.flutter_downloader-mergeReleaseResources-16 D:\Tekno\PTV\PTV App\build\flutter_downloader\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+vn.hunghd.flutterdownloader.flutter_downloader-merged_res-17 D:\Tekno\PTV\PTV App\build\flutter_downloader\intermediates\merged_res\release

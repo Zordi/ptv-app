@@ -1,0 +1,14 @@
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-1.0.0-beta04-0 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-exoplayer-core-2.18.7-1 C:\Users\zordi\.gradle\caches\transforms-3\3a4fc3a233592ebf5d785b5fbe5ba264\transformed\jetified-exoplayer-core-2.18.7\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-java-1.0.0-beta04-2 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-core-1.7.0-3 C:\Users\zordi\.gradle\caches\transforms-3\680599c0743d823484569aac7f66ed88\transformed\core-1.7.0\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-annotation-experimental-1.1.0-4 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.videoplayer.video_player_android-lifecycle-runtime-2.3.1-5 C:\Users\zordi\.gradle\caches\transforms-3\e272ebcd6ae79ed8326c13e7e97054b4\transformed\lifecycle-runtime-2.3.1\res
+io.flutter.plugins.videoplayer.video_player_android-main-6 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.9\android\src\main\res
+io.flutter.plugins.videoplayer.video_player_android-release-7 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.9\android\src\release\res
+io.flutter.plugins.videoplayer.video_player_android-pngs-8 D:\Tekno\PTV\PTV App\build\video_player_android\generated\res\pngs\release
+io.flutter.plugins.videoplayer.video_player_android-resValues-9 D:\Tekno\PTV\PTV App\build\video_player_android\generated\res\resValues\release
+io.flutter.plugins.videoplayer.video_player_android-rs-10 D:\Tekno\PTV\PTV App\build\video_player_android\generated\res\rs\release
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-11 D:\Tekno\PTV\PTV App\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-12 D:\Tekno\PTV\PTV App\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.videoplayer.video_player_android-merged_res-13 D:\Tekno\PTV\PTV App\build\video_player_android\intermediates\merged_res\release

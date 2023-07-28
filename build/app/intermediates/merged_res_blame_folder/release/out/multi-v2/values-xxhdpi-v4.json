@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ptv.mobile.app-mergeReleaseResources-78:/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zordi\\.gradle\\caches\\transforms-3\\d930e88ca8838af508541d667a7b1a2b\\transformed\\jetified-androidsdk-3.0.4\\res\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "47",
+                        "endOffsets": "98"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.github.ayvazj.flutter_lwa-merged_res-10:/layout/custom_dialog.xml",
+        "source": "com.github.ayvazj.flutter_lwa-core-1.6.0-3:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.github.ayvazj.flutter_lwa-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "com.github.ayvazj.flutter_lwa-core-1.6.0-3:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.github.ayvazj.flutter_lwa-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "com.github.ayvazj.flutter_lwa-core-1.6.0-3:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.github.ayvazj.flutter_lwa-merged_res-10:/layout/notification_action.xml",
+        "source": "com.github.ayvazj.flutter_lwa-core-1.6.0-3:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.github.ayvazj.flutter_lwa-merged_res-10:/layout/notification_action_tombstone.xml",
+        "source": "com.github.ayvazj.flutter_lwa-core-1.6.0-3:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.github.ayvazj.flutter_lwa-merged_res-10:/layout/notification_template_icon_group.xml",
+        "source": "com.github.ayvazj.flutter_lwa-core-1.6.0-3:/layout/notification_template_icon_group.xml"
+    }
+]

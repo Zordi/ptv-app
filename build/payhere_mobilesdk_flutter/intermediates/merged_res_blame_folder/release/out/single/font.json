@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/font/product_sans_regular.ttf",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-jetified-androidsdk-3.0.4-17:/font/product_sans_regular.ttf"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/font/product_sans_bold.ttf",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-jetified-androidsdk-3.0.4-17:/font/product_sans_bold.ttf"
+    }
+]

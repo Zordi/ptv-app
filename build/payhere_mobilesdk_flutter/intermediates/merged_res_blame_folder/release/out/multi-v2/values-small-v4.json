@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-mergeReleaseResources-23:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zordi\\.gradle\\caches\\transforms-3\\229b4a1c389ed372ad131371bb3741d7\\transformed\\material-1.1.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/values-small-v4/values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zordi\\.gradle\\caches\\transforms-3\\229b4a1c389ed372ad131371bb3741d7\\transformed\\material-1.1.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}

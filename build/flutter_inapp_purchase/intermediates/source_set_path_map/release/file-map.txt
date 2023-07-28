@@ -1,0 +1,12 @@
+com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-jetified-window-1.0.0-beta04-0 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-jetified-window-java-1.0.0-beta04-1 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-jetified-annotation-experimental-1.1.0-2 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-core-1.6.0-3 C:\Users\zordi\.gradle\caches\transforms-3\bd7ab80df1db0a38ef84ffbfdecf51ce\transformed\core-1.6.0\res
+com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-main-4 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_inapp_purchase-5.3.1\android\src\main\res
+com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-release-5 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_inapp_purchase-5.3.1\android\src\release\res
+com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-pngs-6 D:\Tekno\PTV\PTV App\build\flutter_inapp_purchase\generated\res\pngs\release
+com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-resValues-7 D:\Tekno\PTV\PTV App\build\flutter_inapp_purchase\generated\res\resValues\release
+com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-rs-8 D:\Tekno\PTV\PTV App\build\flutter_inapp_purchase\generated\res\rs\release
+com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-mergeReleaseResources-9 D:\Tekno\PTV\PTV App\build\flutter_inapp_purchase\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-mergeReleaseResources-10 D:\Tekno\PTV\PTV App\build\flutter_inapp_purchase\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-merged_res-11 D:\Tekno\PTV\PTV App\build\flutter_inapp_purchase\intermediates\merged_res\release

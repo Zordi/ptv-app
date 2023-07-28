@@ -1,0 +1,27 @@
+in.appyflow.paytm-lifecycle-viewmodel-2.3.1-0 C:\Users\zordi\.gradle\caches\transforms-3\01c934254d3696dbe824fc0415581aa6\transformed\lifecycle-viewmodel-2.3.1\res
+in.appyflow.paytm-jetified-window-1.0.0-beta04-1 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+in.appyflow.paytm-cardview-1.0.0-2 C:\Users\zordi\.gradle\caches\transforms-3\3cf063776cbb9ac668230638b58204c3\transformed\cardview-1.0.0\res
+in.appyflow.paytm-jetified-appcompat-resources-1.3.1-3 C:\Users\zordi\.gradle\caches\transforms-3\5ec46f98456fd011f384124b94cb9bef\transformed\jetified-appcompat-resources-1.3.1\res
+in.appyflow.paytm-jetified-window-java-1.0.0-beta04-4 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+in.appyflow.paytm-jetified-appinvokesdk-1.6.4-5 C:\Users\zordi\.gradle\caches\transforms-3\671a5cfad871e771b917ad8416231fd0\transformed\jetified-appinvokesdk-1.6.4\res
+in.appyflow.paytm-databinding-runtime-4.2.2-6 C:\Users\zordi\.gradle\caches\transforms-3\952aa5e291027c8617c92f7403981c0c\transformed\databinding-runtime-4.2.2\res
+in.appyflow.paytm-jetified-annotation-experimental-1.1.0-7 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+in.appyflow.paytm-jetified-easypay-appinvoke-1.7.3-8 C:\Users\zordi\.gradle\caches\transforms-3\95b98a1694190a35db3f0bc1657316f9\transformed\jetified-easypay-appinvoke-1.7.3\res
+in.appyflow.paytm-fragment-1.3.6-9 C:\Users\zordi\.gradle\caches\transforms-3\972045a39b671b25523eae253bb4adbb\transformed\fragment-1.3.6\res
+in.appyflow.paytm-jetified-savedstate-1.1.0-10 C:\Users\zordi\.gradle\caches\transforms-3\98b392bb83b0ec1fa191808ee3355e07\transformed\jetified-savedstate-1.1.0\res
+in.appyflow.paytm-databinding-adapters-4.2.2-11 C:\Users\zordi\.gradle\caches\transforms-3\a3fcbf7d82d6cd6fe035c38cc8ddff03\transformed\databinding-adapters-4.2.2\res
+in.appyflow.paytm-jetified-lottie-3.4.0-12 C:\Users\zordi\.gradle\caches\transforms-3\b13f9d9b9c69f78c88e1af8e888ece4f\transformed\jetified-lottie-3.4.0\res
+in.appyflow.paytm-coordinatorlayout-1.0.0-13 C:\Users\zordi\.gradle\caches\transforms-3\b4e237b7de189897bcdaac4ca09268b3\transformed\coordinatorlayout-1.0.0\res
+in.appyflow.paytm-core-1.6.0-14 C:\Users\zordi\.gradle\caches\transforms-3\bd7ab80df1db0a38ef84ffbfdecf51ce\transformed\core-1.6.0\res
+in.appyflow.paytm-constraintlayout-2.1.0-15 C:\Users\zordi\.gradle\caches\transforms-3\c65cc86dfae8436184536271703e3375\transformed\constraintlayout-2.1.0\res
+in.appyflow.paytm-media-1.0.0-16 C:\Users\zordi\.gradle\caches\transforms-3\e03f74d87827e4a81c2ea8a850cf4fd1\transformed\media-1.0.0\res
+in.appyflow.paytm-lifecycle-runtime-2.3.1-17 C:\Users\zordi\.gradle\caches\transforms-3\e272ebcd6ae79ed8326c13e7e97054b4\transformed\lifecycle-runtime-2.3.1\res
+in.appyflow.paytm-appcompat-1.3.1-18 C:\Users\zordi\.gradle\caches\transforms-3\e3cfceab87c65c6673053782152886ed\transformed\appcompat-1.3.1\res
+in.appyflow.paytm-main-19 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\paytm-3.0.1\android\src\main\res
+in.appyflow.paytm-release-20 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\paytm-3.0.1\android\src\release\res
+in.appyflow.paytm-pngs-21 D:\Tekno\PTV\PTV App\build\paytm\generated\res\pngs\release
+in.appyflow.paytm-resValues-22 D:\Tekno\PTV\PTV App\build\paytm\generated\res\resValues\release
+in.appyflow.paytm-rs-23 D:\Tekno\PTV\PTV App\build\paytm\generated\res\rs\release
+in.appyflow.paytm-mergeReleaseResources-24 D:\Tekno\PTV\PTV App\build\paytm\intermediates\incremental\release\mergeReleaseResources\merged.dir
+in.appyflow.paytm-mergeReleaseResources-25 D:\Tekno\PTV\PTV App\build\paytm\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+in.appyflow.paytm-merged_res-26 D:\Tekno\PTV\PTV App\build\paytm\intermediates\merged_res\release

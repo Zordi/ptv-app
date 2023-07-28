@@ -1,0 +1,12 @@
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-window-1.0.0-beta04-0 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-window-java-1.0.0-beta04-1 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-annotation-experimental-1.1.0-2 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-core-1.6.0-3 C:\Users\zordi\.gradle\caches\transforms-3\bd7ab80df1db0a38ef84ffbfdecf51ce\transformed\core-1.6.0\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-main-4 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_flutter_pdfviewer-20.4.54\android\src\main\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-release-5 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\syncfusion_flutter_pdfviewer-20.4.54\android\src\release\res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-pngs-6 D:\Tekno\PTV\PTV App\build\syncfusion_flutter_pdfviewer\generated\res\pngs\release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-resValues-7 D:\Tekno\PTV\PTV App\build\syncfusion_flutter_pdfviewer\generated\res\resValues\release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-rs-8 D:\Tekno\PTV\PTV App\build\syncfusion_flutter_pdfviewer\generated\res\rs\release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-mergeReleaseResources-9 D:\Tekno\PTV\PTV App\build\syncfusion_flutter_pdfviewer\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-mergeReleaseResources-10 D:\Tekno\PTV\PTV App\build\syncfusion_flutter_pdfviewer\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-merged_res-11 D:\Tekno\PTV\PTV App\build\syncfusion_flutter_pdfviewer\intermediates\merged_res\release

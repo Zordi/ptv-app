@@ -1,0 +1,22 @@
+com.jhomlala.better_player-lifecycle-runtime-2.4.0-beta01-0 C:\Users\zordi\.gradle\caches\transforms-3\21ac33343ad31cfc68fcd95dac922da1\transformed\lifecycle-runtime-2.4.0-beta01\res
+com.jhomlala.better_player-jetified-window-1.0.0-beta04-1 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+com.jhomlala.better_player-jetified-exoplayer-ui-2.17.1-2 C:\Users\zordi\.gradle\caches\transforms-3\3a687beeb5b0b1ff184d93378a0976bf\transformed\jetified-exoplayer-ui-2.17.1\res
+com.jhomlala.better_player-work-runtime-2.7.0-3 C:\Users\zordi\.gradle\caches\transforms-3\3ba1f23778aa6cef01611e4a9399283b\transformed\work-runtime-2.7.0\res
+com.jhomlala.better_player-jetified-startup-runtime-1.0.0-4 C:\Users\zordi\.gradle\caches\transforms-3\4243018ce6cd898e09cce1ec9569d294\transformed\jetified-startup-runtime-1.0.0\res
+com.jhomlala.better_player-jetified-window-java-1.0.0-beta04-5 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+com.jhomlala.better_player-jetified-extension-mediasession-2.17.1-6 C:\Users\zordi\.gradle\caches\transforms-3\65b187b9432b21a93ce3af81e399b014\transformed\jetified-extension-mediasession-2.17.1\res
+com.jhomlala.better_player-core-1.7.0-7 C:\Users\zordi\.gradle\caches\transforms-3\680599c0743d823484569aac7f66ed88\transformed\core-1.7.0\res
+com.jhomlala.better_player-jetified-lifecycle-runtime-ktx-2.4.0-beta01-8 C:\Users\zordi\.gradle\caches\transforms-3\6fee4ab3e35797f619f4fb4c70536bca\transformed\jetified-lifecycle-runtime-ktx-2.4.0-beta01\res
+com.jhomlala.better_player-jetified-exoplayer-core-2.17.1-9 C:\Users\zordi\.gradle\caches\transforms-3\89459c18a3ed0e4be4ef7504f47e31e0\transformed\jetified-exoplayer-core-2.17.1\res
+com.jhomlala.better_player-jetified-annotation-experimental-1.1.0-10 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+com.jhomlala.better_player-recyclerview-1.2.1-11 C:\Users\zordi\.gradle\caches\transforms-3\cdeade3ed5afc21d992bc0c7c7058267\transformed\recyclerview-1.2.1\res
+com.jhomlala.better_player-media-1.4.3-12 C:\Users\zordi\.gradle\caches\transforms-3\e176068b5fcd741297c9d39286af6171\transformed\media-1.4.3\res
+com.jhomlala.better_player-main-13 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\better_player-0.0.83\android\src\main\res
+com.jhomlala.better_player-release-14 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\better_player-0.0.83\android\src\release\res
+com.jhomlala.better_player-pngs-15 D:\Tekno\PTV\PTV App\build\better_player\generated\res\pngs\release
+com.jhomlala.better_player-resValues-16 D:\Tekno\PTV\PTV App\build\better_player\generated\res\resValues\release
+com.jhomlala.better_player-rs-17 D:\Tekno\PTV\PTV App\build\better_player\generated\res\rs\release
+com.jhomlala.better_player-mergeReleaseResources-18 D:\Tekno\PTV\PTV App\build\better_player\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.jhomlala.better_player-mergeReleaseResources-19 D:\Tekno\PTV\PTV App\build\better_player\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.jhomlala.better_player-merged_res-20 D:\Tekno\PTV\PTV App\build\better_player\intermediates\merged_res\release
+com.jhomlala.better_player-packaged_res-21 D:\Tekno\PTV\PTV App\build\wakelock\intermediates\packaged_res\release

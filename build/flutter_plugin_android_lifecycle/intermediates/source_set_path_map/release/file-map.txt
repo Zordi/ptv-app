@@ -1,0 +1,12 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.0.0-beta04-0 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.0.0-beta04-1 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.1.0-2 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.6.0-3 C:\Users\zordi\.gradle\caches\transforms-3\bd7ab80df1db0a38ef84ffbfdecf51ce\transformed\core-1.6.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-4 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.15\android\src\main\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-5 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.15\android\src\release\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-6 D:\Tekno\PTV\PTV App\build\flutter_plugin_android_lifecycle\generated\res\pngs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-7 D:\Tekno\PTV\PTV App\build\flutter_plugin_android_lifecycle\generated\res\resValues\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-rs-8 D:\Tekno\PTV\PTV App\build\flutter_plugin_android_lifecycle\generated\res\rs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-9 D:\Tekno\PTV\PTV App\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-10 D:\Tekno\PTV\PTV App\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-merged_res-11 D:\Tekno\PTV\PTV App\build\flutter_plugin_android_lifecycle\intermediates\merged_res\release

@@ -1,0 +1,13 @@
+de.ffuf.in_app_update-jetified-core-1.10.3-0 C:\Users\zordi\.gradle\caches\transforms-3\0785167f8831f5881bbf92230b2020f0\transformed\jetified-core-1.10.3\res
+de.ffuf.in_app_update-jetified-window-1.0.0-beta04-1 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+de.ffuf.in_app_update-jetified-window-java-1.0.0-beta04-2 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+de.ffuf.in_app_update-jetified-annotation-experimental-1.1.0-3 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+de.ffuf.in_app_update-core-1.6.0-4 C:\Users\zordi\.gradle\caches\transforms-3\bd7ab80df1db0a38ef84ffbfdecf51ce\transformed\core-1.6.0\res
+de.ffuf.in_app_update-main-5 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\in_app_update-3.0.0\android\src\main\res
+de.ffuf.in_app_update-release-6 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\in_app_update-3.0.0\android\src\release\res
+de.ffuf.in_app_update-pngs-7 D:\Tekno\PTV\PTV App\build\in_app_update\generated\res\pngs\release
+de.ffuf.in_app_update-resValues-8 D:\Tekno\PTV\PTV App\build\in_app_update\generated\res\resValues\release
+de.ffuf.in_app_update-rs-9 D:\Tekno\PTV\PTV App\build\in_app_update\generated\res\rs\release
+de.ffuf.in_app_update-mergeReleaseResources-10 D:\Tekno\PTV\PTV App\build\in_app_update\intermediates\incremental\release\mergeReleaseResources\merged.dir
+de.ffuf.in_app_update-mergeReleaseResources-11 D:\Tekno\PTV\PTV App\build\in_app_update\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+de.ffuf.in_app_update-merged_res-12 D:\Tekno\PTV\PTV App\build\in_app_update\intermediates\merged_res\release

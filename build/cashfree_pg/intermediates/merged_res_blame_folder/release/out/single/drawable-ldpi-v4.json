@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/drawable-ldpi-v4/ic_close.png",
+        "source": "com.cashfree.cashfree_pg-jetified-android-sdk-1.7.28-23:/drawable-ldpi-v4/ic_close.png"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/drawable-ldpi-v4/ic_cf_logo_no_bg.png",
+        "source": "com.cashfree.cashfree_pg-jetified-android-sdk-1.7.28-23:/drawable-ldpi-v4/ic_cf_logo_no_bg.png"
+    }
+]

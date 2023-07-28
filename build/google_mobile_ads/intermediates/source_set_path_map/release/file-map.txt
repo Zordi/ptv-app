@@ -1,0 +1,22 @@
+io.flutter.plugins.googlemobileads.google_mobile_ads-browser-1.4.0-0 C:\Users\zordi\.gradle\caches\transforms-3\061de638b0a0ecf6ae530ba0035512fc\transformed\browser-1.4.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-basement-18.0.0-1 C:\Users\zordi\.gradle\caches\transforms-3\20a9b8ac70113cb83fefe73317867fad\transformed\jetified-play-services-basement-18.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-window-1.0.0-beta04-2 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-work-runtime-2.7.0-3 C:\Users\zordi\.gradle\caches\transforms-3\3ba1f23778aa6cef01611e4a9399283b\transformed\work-runtime-2.7.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-startup-runtime-1.0.0-4 C:\Users\zordi\.gradle\caches\transforms-3\4243018ce6cd898e09cce1ec9569d294\transformed\jetified-startup-runtime-1.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-window-java-1.0.0-beta04-5 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-appcompat-1.2.0-6 C:\Users\zordi\.gradle\caches\transforms-3\6283d531e5f2a614360017cd81f9dd16\transformed\appcompat-1.2.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-constraintlayout-2.1.4-7 C:\Users\zordi\.gradle\caches\transforms-3\7dcea31af42d6da175ac8a244ea2ce55\transformed\constraintlayout-2.1.4\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-annotation-experimental-1.1.0-8 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-appcompat-resources-1.2.0-9 C:\Users\zordi\.gradle\caches\transforms-3\b51646f2483f5f62c48a2ba18193ced6\transformed\jetified-appcompat-resources-1.2.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-ads-21.3.0-10 C:\Users\zordi\.gradle\caches\transforms-3\bc0ddfd25b93ed9bb7559af7aff8523e\transformed\jetified-play-services-ads-21.3.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-core-1.6.0-11 C:\Users\zordi\.gradle\caches\transforms-3\bd7ab80df1db0a38ef84ffbfdecf51ce\transformed\core-1.6.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-ads-lite-21.3.0-12 C:\Users\zordi\.gradle\caches\transforms-3\f51a93c4a083312ea03aeeb196435f9c\transformed\jetified-play-services-ads-lite-21.3.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-base-18.0.0-13 C:\Users\zordi\.gradle\caches\transforms-3\f5ff9297bae077cbfc92e19a974a4f4b\transformed\jetified-play-services-base-18.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-main-14 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\google_mobile_ads-2.4.0\android\src\main\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-release-15 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\google_mobile_ads-2.4.0\android\src\release\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-pngs-16 D:\Tekno\PTV\PTV App\build\google_mobile_ads\generated\res\pngs\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-resValues-17 D:\Tekno\PTV\PTV App\build\google_mobile_ads\generated\res\resValues\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-rs-18 D:\Tekno\PTV\PTV App\build\google_mobile_ads\generated\res\rs\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-mergeReleaseResources-19 D:\Tekno\PTV\PTV App\build\google_mobile_ads\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.googlemobileads.google_mobile_ads-mergeReleaseResources-20 D:\Tekno\PTV\PTV App\build\google_mobile_ads\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.googlemobileads.google_mobile_ads-merged_res-21 D:\Tekno\PTV\PTV App\build\google_mobile_ads\intermediates\merged_res\release

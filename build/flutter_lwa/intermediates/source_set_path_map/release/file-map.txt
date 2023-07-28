@@ -1,0 +1,12 @@
+com.github.ayvazj.flutter_lwa-jetified-window-1.0.0-beta04-0 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+com.github.ayvazj.flutter_lwa-jetified-window-java-1.0.0-beta04-1 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+com.github.ayvazj.flutter_lwa-jetified-annotation-experimental-1.1.0-2 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+com.github.ayvazj.flutter_lwa-core-1.6.0-3 C:\Users\zordi\.gradle\caches\transforms-3\bd7ab80df1db0a38ef84ffbfdecf51ce\transformed\core-1.6.0\res
+com.github.ayvazj.flutter_lwa-main-4 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_lwa-2.1.0\android\src\main\res
+com.github.ayvazj.flutter_lwa-release-5 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_lwa-2.1.0\android\src\release\res
+com.github.ayvazj.flutter_lwa-pngs-6 D:\Tekno\PTV\PTV App\build\flutter_lwa\generated\res\pngs\release
+com.github.ayvazj.flutter_lwa-resValues-7 D:\Tekno\PTV\PTV App\build\flutter_lwa\generated\res\resValues\release
+com.github.ayvazj.flutter_lwa-rs-8 D:\Tekno\PTV\PTV App\build\flutter_lwa\generated\res\rs\release
+com.github.ayvazj.flutter_lwa-mergeReleaseResources-9 D:\Tekno\PTV\PTV App\build\flutter_lwa\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.github.ayvazj.flutter_lwa-mergeReleaseResources-10 D:\Tekno\PTV\PTV App\build\flutter_lwa\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.github.ayvazj.flutter_lwa-merged_res-11 D:\Tekno\PTV\PTV App\build\flutter_lwa\intermediates\merged_res\release

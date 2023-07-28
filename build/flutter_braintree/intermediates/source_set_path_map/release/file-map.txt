@@ -1,0 +1,32 @@
+com.example.flutter_braintree-fragment-1.2.5-0 C:\Users\zordi\.gradle\caches\transforms-3\0f81befeabd2358e42acff6a404e4f74\transformed\fragment-1.2.5\res
+com.example.flutter_braintree-constraintlayout-1.1.3-1 C:\Users\zordi\.gradle\caches\transforms-3\1620601a2e589a9c54e0c62d5deba939\transformed\constraintlayout-1.1.3\res
+com.example.flutter_braintree-jetified-google-payment-3.3.1-2 C:\Users\zordi\.gradle\caches\transforms-3\22e9985e0c5582d3489d6f1bd65bf84f\transformed\jetified-google-payment-3.3.1\res
+com.example.flutter_braintree-jetified-window-1.0.0-beta04-3 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_braintree-cardview-1.0.0-4 C:\Users\zordi\.gradle\caches\transforms-3\3cf063776cbb9ac668230638b58204c3\transformed\cardview-1.0.0\res
+com.example.flutter_braintree-coordinatorlayout-1.1.0-5 C:\Users\zordi\.gradle\caches\transforms-3\4e63cde45665619ce3edcdbcbacad478\transformed\coordinatorlayout-1.1.0\res
+com.example.flutter_braintree-jetified-window-java-1.0.0-beta04-6 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_braintree-appcompat-1.2.0-7 C:\Users\zordi\.gradle\caches\transforms-3\6283d531e5f2a614360017cd81f9dd16\transformed\appcompat-1.2.0\res
+com.example.flutter_braintree-jetified-play-services-wallet-16.0.1-8 C:\Users\zordi\.gradle\caches\transforms-3\6fa6d573802d3d9a096aaa64dfbb1dfd\transformed\jetified-play-services-wallet-16.0.1\res
+com.example.flutter_braintree-jetified-viewpager2-1.0.0-9 C:\Users\zordi\.gradle\caches\transforms-3\7b3943764428c7ed3ba694eab1623c79\transformed\jetified-viewpager2-1.0.0\res
+com.example.flutter_braintree-jetified-play-services-basement-16.0.1-10 C:\Users\zordi\.gradle\caches\transforms-3\7f78b7ca5113ed4fb7b92d52a03b0048\transformed\jetified-play-services-basement-16.0.1\res
+com.example.flutter_braintree-jetified-card-form-5.1.1-11 C:\Users\zordi\.gradle\caches\transforms-3\8e998d06acec020c5efc895199ddfcc8\transformed\jetified-card-form-5.1.1\res
+com.example.flutter_braintree-jetified-annotation-experimental-1.1.0-12 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_braintree-recyclerview-1.1.0-13 C:\Users\zordi\.gradle\caches\transforms-3\98bbc62198908f386062045f4f9823f9\transformed\recyclerview-1.1.0\res
+com.example.flutter_braintree-jetified-appcompat-resources-1.2.0-14 C:\Users\zordi\.gradle\caches\transforms-3\b51646f2483f5f62c48a2ba18193ced6\transformed\jetified-appcompat-resources-1.2.0\res
+com.example.flutter_braintree-core-1.6.0-15 C:\Users\zordi\.gradle\caches\transforms-3\bd7ab80df1db0a38ef84ffbfdecf51ce\transformed\core-1.6.0\res
+com.example.flutter_braintree-jetified-braintree-3.15.0-16 C:\Users\zordi\.gradle\caches\transforms-3\c365c1f97bd15153570dbd4316ae2d7e\transformed\jetified-braintree-3.15.0\res
+com.example.flutter_braintree-jetified-play-services-maps-16.0.0-17 C:\Users\zordi\.gradle\caches\transforms-3\cc203b23d9dfff51581437a3c41981d0\transformed\jetified-play-services-maps-16.0.0\res
+com.example.flutter_braintree-jetified-play-services-base-16.0.1-18 C:\Users\zordi\.gradle\caches\transforms-3\cf39bae4e15f12104fb5f58c60f19c23\transformed\jetified-play-services-base-16.0.1\res
+com.example.flutter_braintree-media-1.0.0-19 C:\Users\zordi\.gradle\caches\transforms-3\e03f74d87827e4a81c2ea8a850cf4fd1\transformed\media-1.0.0\res
+com.example.flutter_braintree-material-1.2.0-20 C:\Users\zordi\.gradle\caches\transforms-3\ee3b40991c862f6630aea09564f78870\transformed\material-1.2.0\res
+com.example.flutter_braintree-transition-1.2.0-21 C:\Users\zordi\.gradle\caches\transforms-3\f529b7b649bc5e1dd40100268e08519e\transformed\transition-1.2.0\res
+com.example.flutter_braintree-jetified-cardinalmobilesdk-2.2.4-1-22 C:\Users\zordi\.gradle\caches\transforms-3\f55011a7c3f8f87758af33ddcc70595e\transformed\jetified-cardinalmobilesdk-2.2.4-1\res
+com.example.flutter_braintree-jetified-drop-in-5.2.1-23 C:\Users\zordi\.gradle\caches\transforms-3\f77386edbe925e1be860e1c96c456fa6\transformed\jetified-drop-in-5.2.1\res
+com.example.flutter_braintree-main-24 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_braintree-2.3.1\android\src\main\res
+com.example.flutter_braintree-release-25 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_braintree-2.3.1\android\src\release\res
+com.example.flutter_braintree-pngs-26 D:\Tekno\PTV\PTV App\build\flutter_braintree\generated\res\pngs\release
+com.example.flutter_braintree-resValues-27 D:\Tekno\PTV\PTV App\build\flutter_braintree\generated\res\resValues\release
+com.example.flutter_braintree-rs-28 D:\Tekno\PTV\PTV App\build\flutter_braintree\generated\res\rs\release
+com.example.flutter_braintree-mergeReleaseResources-29 D:\Tekno\PTV\PTV App\build\flutter_braintree\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.flutter_braintree-mergeReleaseResources-30 D:\Tekno\PTV\PTV App\build\flutter_braintree\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.flutter_braintree-merged_res-31 D:\Tekno\PTV\PTV App\build\flutter_braintree\intermediates\merged_res\release

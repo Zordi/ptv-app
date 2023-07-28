@@ -1,0 +1,15 @@
+com.rebeloid.unity_ads.unity_ads_plugin-jetified-window-1.0.0-beta04-0 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+com.rebeloid.unity_ads.unity_ads_plugin-jetified-window-java-1.0.0-beta04-1 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+com.rebeloid.unity_ads.unity_ads_plugin-lifecycle-runtime-2.5.1-2 C:\Users\zordi\.gradle\caches\transforms-3\775cb4b59c3f3245f3a7367c72308175\transformed\lifecycle-runtime-2.5.1\res
+com.rebeloid.unity_ads.unity_ads_plugin-jetified-annotation-experimental-1.1.0-3 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+com.rebeloid.unity_ads.unity_ads_plugin-jetified-lifecycle-process-2.5.1-4 C:\Users\zordi\.gradle\caches\transforms-3\a82233cd8f9d1e3496f334757f11d21b\transformed\jetified-lifecycle-process-2.5.1\res
+com.rebeloid.unity_ads.unity_ads_plugin-core-1.6.0-5 C:\Users\zordi\.gradle\caches\transforms-3\bd7ab80df1db0a38ef84ffbfdecf51ce\transformed\core-1.6.0\res
+com.rebeloid.unity_ads.unity_ads_plugin-jetified-startup-runtime-1.1.1-6 C:\Users\zordi\.gradle\caches\transforms-3\d7a41b1b1a3a7af005a00bd626efdaeb\transformed\jetified-startup-runtime-1.1.1\res
+com.rebeloid.unity_ads.unity_ads_plugin-main-7 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\unity_ads_plugin-0.3.8\android\src\main\res
+com.rebeloid.unity_ads.unity_ads_plugin-release-8 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\unity_ads_plugin-0.3.8\android\src\release\res
+com.rebeloid.unity_ads.unity_ads_plugin-pngs-9 D:\Tekno\PTV\PTV App\build\unity_ads_plugin\generated\res\pngs\release
+com.rebeloid.unity_ads.unity_ads_plugin-resValues-10 D:\Tekno\PTV\PTV App\build\unity_ads_plugin\generated\res\resValues\release
+com.rebeloid.unity_ads.unity_ads_plugin-rs-11 D:\Tekno\PTV\PTV App\build\unity_ads_plugin\generated\res\rs\release
+com.rebeloid.unity_ads.unity_ads_plugin-mergeReleaseResources-12 D:\Tekno\PTV\PTV App\build\unity_ads_plugin\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.rebeloid.unity_ads.unity_ads_plugin-mergeReleaseResources-13 D:\Tekno\PTV\PTV App\build\unity_ads_plugin\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.rebeloid.unity_ads.unity_ads_plugin-merged_res-14 D:\Tekno\PTV\PTV App\build\unity_ads_plugin\intermediates\merged_res\release

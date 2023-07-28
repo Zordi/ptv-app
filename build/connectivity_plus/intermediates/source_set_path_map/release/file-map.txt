@@ -1,0 +1,12 @@
+dev.fluttercommunity.plus.connectivity.connectivity_plus-jetified-window-1.0.0-beta04-0 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-jetified-window-java-1.0.0-beta04-1 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-jetified-annotation-experimental-1.1.0-2 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-core-1.6.0-3 C:\Users\zordi\.gradle\caches\transforms-3\bd7ab80df1db0a38ef84ffbfdecf51ce\transformed\core-1.6.0\res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-main-4 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-3.0.6\android\src\main\res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-release-5 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-3.0.6\android\src\release\res
+dev.fluttercommunity.plus.connectivity.connectivity_plus-pngs-6 D:\Tekno\PTV\PTV App\build\connectivity_plus\generated\res\pngs\release
+dev.fluttercommunity.plus.connectivity.connectivity_plus-resValues-7 D:\Tekno\PTV\PTV App\build\connectivity_plus\generated\res\resValues\release
+dev.fluttercommunity.plus.connectivity.connectivity_plus-rs-8 D:\Tekno\PTV\PTV App\build\connectivity_plus\generated\res\rs\release
+dev.fluttercommunity.plus.connectivity.connectivity_plus-mergeReleaseResources-9 D:\Tekno\PTV\PTV App\build\connectivity_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.plus.connectivity.connectivity_plus-mergeReleaseResources-10 D:\Tekno\PTV\PTV App\build\connectivity_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.plus.connectivity.connectivity_plus-merged_res-11 D:\Tekno\PTV\PTV App\build\connectivity_plus\intermediates\merged_res\release

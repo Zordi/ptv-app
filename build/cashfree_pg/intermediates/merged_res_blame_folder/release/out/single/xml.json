@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/xml/standalone_badge_offset.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/xml/standalone_badge_gravity_top_start.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "com.cashfree.cashfree_pg-merged_res-30:/xml/standalone_badge.xml",
+        "source": "com.cashfree.cashfree_pg-material-1.2.1-18:/xml/standalone_badge.xml"
+    }
+]

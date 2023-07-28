@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.flutter_braintree-mergeReleaseResources-28:/values-w700dp-v13/values-w700dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zordi\\.gradle\\caches\\transforms-3\\f77386edbe925e1be860e1c96c456fa6\\transformed\\jetified-drop-in-5.2.1\\res\\values-w700dp-v13\\values-w700dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.flutter_braintree-merged_res-30:/values-w700dp-v13/values-w700dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zordi\\.gradle\\caches\\transforms-3\\f77386edbe925e1be860e1c96c456fa6\\transformed\\jetified-drop-in-5.2.1\\res\\values-w700dp-v13\\values-w700dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}

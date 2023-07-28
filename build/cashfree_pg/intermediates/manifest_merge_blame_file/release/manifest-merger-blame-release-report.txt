@@ -1,0 +1,20 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.cashfree.cashfree_pg" >
+5
+6    <uses-sdk android:minSdkVersion="16" />
+6-->C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\cashfree_pg-2.0.12+32\android\src\main\AndroidManifest.xml
+7
+8    <application tools:node="merge" >
+8-->C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\cashfree_pg-2.0.12+32\android\src\main\AndroidManifest.xml:4:5-8:19
+8-->C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\cashfree_pg-2.0.12+32\android\src\main\AndroidManifest.xml:5:5-23
+9        <meta-data
+9-->C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\cashfree_pg-2.0.12+32\android\src\main\AndroidManifest.xml:6:9-7:69
+10            android:name="com.google.android.gms.version"
+10-->C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\cashfree_pg-2.0.12+32\android\src\main\AndroidManifest.xml:6:20-65
+11            android:value="@integer/google_play_services_version" />
+11-->C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\cashfree_pg-2.0.12+32\android\src\main\AndroidManifest.xml:7:13-66
+12    </application>
+13
+14</manifest>

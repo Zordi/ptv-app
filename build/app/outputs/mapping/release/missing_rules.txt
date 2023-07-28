@@ -1,0 +1,11 @@
+# Please add these rules to your existing keep rules in order to suppress warnings.
+# This is generated automatically by the Android Gradle plugin.
+-dontwarn com.facebook.infer.annotation.Nullsafe$Mode
+-dontwarn com.facebook.infer.annotation.Nullsafe
+-dontwarn com.google.android.exoplayer2.TracksInfo$TrackGroupInfo
+-dontwarn com.google.android.exoplayer2.TracksInfo
+-dontwarn com.google.android.exoplayer2.trackselection.TrackSelectionOverrides$Builder
+-dontwarn com.google.android.exoplayer2.trackselection.TrackSelectionOverrides$TrackSelectionOverride
+-dontwarn com.google.android.exoplayer2.trackselection.TrackSelectionOverrides
+-dontwarn org.bouncycastle.jce.provider.BouncyCastleProvider
+-dontwarn org.bouncycastle.pqc.jcajce.provider.BouncyCastlePQCProvider

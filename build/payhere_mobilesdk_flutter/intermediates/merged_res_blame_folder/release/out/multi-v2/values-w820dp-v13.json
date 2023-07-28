@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-mergeReleaseResources-23:/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zordi\\.gradle\\caches\\transforms-3\\d930e88ca8838af508541d667a7b1a2b\\transformed\\jetified-androidsdk-3.0.4\\res\\values-w820dp-v13\\values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zordi\\.gradle\\caches\\transforms-3\\d930e88ca8838af508541d667a7b1a2b\\transformed\\jetified-androidsdk-3.0.4\\res\\values-w820dp-v13\\values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "60",
+                        "endOffsets": "111"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/interpolator/mtrl_fast_out_slow_in.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/interpolator/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/interpolator/mtrl_linear.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/interpolator/mtrl_linear_out_slow_in.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/interpolator/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/interpolator/fast_out_slow_in.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/interpolator/mtrl_fast_out_linear_in.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-material-1.1.0-1:/interpolator/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-merged_res-25:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "lk.payhere.mobilesdk.payhere_mobilesdk_flutter-appcompat-1.1.0-9:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.rebeloid.unity_ads.unity_ads_plugin-merged_res-13:/layout/custom_dialog.xml",
+        "source": "com.rebeloid.unity_ads.unity_ads_plugin-core-1.6.0-5:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.rebeloid.unity_ads.unity_ads_plugin-merged_res-13:/layout/notification_template_part_chronometer.xml",
+        "source": "com.rebeloid.unity_ads.unity_ads_plugin-core-1.6.0-5:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.rebeloid.unity_ads.unity_ads_plugin-merged_res-13:/layout/notification_action.xml",
+        "source": "com.rebeloid.unity_ads.unity_ads_plugin-core-1.6.0-5:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.rebeloid.unity_ads.unity_ads_plugin-merged_res-13:/layout/notification_template_part_time.xml",
+        "source": "com.rebeloid.unity_ads.unity_ads_plugin-core-1.6.0-5:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.rebeloid.unity_ads.unity_ads_plugin-merged_res-13:/layout/notification_action_tombstone.xml",
+        "source": "com.rebeloid.unity_ads.unity_ads_plugin-core-1.6.0-5:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.rebeloid.unity_ads.unity_ads_plugin-merged_res-13:/layout/notification_template_icon_group.xml",
+        "source": "com.rebeloid.unity_ads.unity_ads_plugin-core-1.6.0-5:/layout/notification_template_icon_group.xml"
+    }
+]

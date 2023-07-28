@@ -1,0 +1,24 @@
+io.flutter.plugins.imagepicker.image_picker_android-jetified-activity-1.7.2-0 C:\Users\zordi\.gradle\caches\transforms-3\1f06b2455e0524962a88a34224b1cc94\transformed\jetified-activity-1.7.2\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-profileinstaller-1.3.0-1 C:\Users\zordi\.gradle\caches\transforms-3\2431215a2d28495e690edff7ca803cfc\transformed\jetified-profileinstaller-1.3.0\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-1.0.0-beta04-2 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-core-ktx-1.10.1-3 C:\Users\zordi\.gradle\caches\transforms-3\31d1db2145d45472fed7ced7f516032c\transformed\jetified-core-ktx-1.10.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-annotation-experimental-1.3.0-4 C:\Users\zordi\.gradle\caches\transforms-3\432eef29da4aeccea60c7292ae0a5684\transformed\jetified-annotation-experimental-1.3.0\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-savedstate-1.2.1-5 C:\Users\zordi\.gradle\caches\transforms-3\555ede75f063bf3fb1b130d787dcc9d4\transformed\jetified-savedstate-1.2.1\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-livedata-2.6.1-6 C:\Users\zordi\.gradle\caches\transforms-3\56f25d7f46d1d6f71bbed9994dc2997d\transformed\lifecycle-livedata-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-java-1.0.0-beta04-7 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-livedata-core-2.6.1-8 C:\Users\zordi\.gradle\caches\transforms-3\66c102c924778b9727148637c38a2b38\transformed\lifecycle-livedata-core-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-core-runtime-2.2.0-9 C:\Users\zordi\.gradle\caches\transforms-3\958fe5ecac4e7cddda0649315d6e66ed\transformed\core-runtime-2.2.0\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-runtime-2.6.1-10 C:\Users\zordi\.gradle\caches\transforms-3\ba39adb10d1172ba79f5cfe470880900\transformed\lifecycle-runtime-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-core-1.10.1-11 C:\Users\zordi\.gradle\caches\transforms-3\d6a0a9bbae6891d0703adbd1bc1a3a71\transformed\core-1.10.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-startup-runtime-1.1.1-12 C:\Users\zordi\.gradle\caches\transforms-3\d7a41b1b1a3a7af005a00bd626efdaeb\transformed\jetified-startup-runtime-1.1.1\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-viewmodel-2.6.1-13 C:\Users\zordi\.gradle\caches\transforms-3\eb60792b9f8bbcf38e736d370bfe997c\transformed\lifecycle-viewmodel-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-lifecycle-viewmodel-savedstate-2.6.1-14 C:\Users\zordi\.gradle\caches\transforms-3\f7421e8728c852967b5dae1173b1a109\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-main-15 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.7+3\android\src\main\res
+io.flutter.plugins.imagepicker.image_picker_android-release-16 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.7+3\android\src\release\res
+io.flutter.plugins.imagepicker.image_picker_android-packaged_res-17 D:\Tekno\PTV\PTV App\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+io.flutter.plugins.imagepicker.image_picker_android-pngs-18 D:\Tekno\PTV\PTV App\build\image_picker_android\generated\res\pngs\release
+io.flutter.plugins.imagepicker.image_picker_android-resValues-19 D:\Tekno\PTV\PTV App\build\image_picker_android\generated\res\resValues\release
+io.flutter.plugins.imagepicker.image_picker_android-rs-20 D:\Tekno\PTV\PTV App\build\image_picker_android\generated\res\rs\release
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-21 D:\Tekno\PTV\PTV App\build\image_picker_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-22 D:\Tekno\PTV\PTV App\build\image_picker_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.imagepicker.image_picker_android-merged_res-23 D:\Tekno\PTV\PTV App\build\image_picker_android\intermediates\merged_res\release

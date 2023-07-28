@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-merged_res-10:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-core-1.6.0-3:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-merged_res-10:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-core-1.6.0-3:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-merged_res-10:/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-core-1.6.0-3:/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-merged_res-10:/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-core-1.6.0-3:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-merged_res-10:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "com.dooboolab.flutterinapppurchase.flutter_inapp_purchase-core-1.6.0-3:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]

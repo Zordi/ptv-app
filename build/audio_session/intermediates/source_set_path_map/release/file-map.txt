@@ -1,0 +1,15 @@
+com.ryanheise.audio_session-jetified-window-1.0.0-beta04-0 C:\Users\zordi\.gradle\caches\transforms-3\2d968bffa7a2b2a6fae01c3c55f83009\transformed\jetified-window-1.0.0-beta04\res
+com.ryanheise.audio_session-jetified-window-java-1.0.0-beta04-1 C:\Users\zordi\.gradle\caches\transforms-3\5f619a801b5cb3e8185d91856ccccc82\transformed\jetified-window-java-1.0.0-beta04\res
+com.ryanheise.audio_session-jetified-media2-common-1.2.1-2 C:\Users\zordi\.gradle\caches\transforms-3\8c298c8155c9d847370b0790ec2e85b9\transformed\jetified-media2-common-1.2.1\res
+com.ryanheise.audio_session-jetified-annotation-experimental-1.1.0-3 C:\Users\zordi\.gradle\caches\transforms-3\95b107483aa643bbe4f7f18e17daf5a0\transformed\jetified-annotation-experimental-1.1.0\res
+com.ryanheise.audio_session-core-1.6.0-4 C:\Users\zordi\.gradle\caches\transforms-3\bd7ab80df1db0a38ef84ffbfdecf51ce\transformed\core-1.6.0\res
+com.ryanheise.audio_session-jetified-media2-session-1.2.1-5 C:\Users\zordi\.gradle\caches\transforms-3\c3f9e1af9c3e8a9c3eb808d8a501427c\transformed\jetified-media2-session-1.2.1\res
+com.ryanheise.audio_session-media-1.4.1-6 C:\Users\zordi\.gradle\caches\transforms-3\d8572e72f2463352046ccad235636565\transformed\media-1.4.1\res
+com.ryanheise.audio_session-main-7 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\audio_session-0.1.16\android\src\main\res
+com.ryanheise.audio_session-release-8 C:\Users\zordi\AppData\Local\Pub\Cache\hosted\pub.dev\audio_session-0.1.16\android\src\release\res
+com.ryanheise.audio_session-pngs-9 D:\Tekno\PTV\PTV App\build\audio_session\generated\res\pngs\release
+com.ryanheise.audio_session-resValues-10 D:\Tekno\PTV\PTV App\build\audio_session\generated\res\resValues\release
+com.ryanheise.audio_session-rs-11 D:\Tekno\PTV\PTV App\build\audio_session\generated\res\rs\release
+com.ryanheise.audio_session-mergeReleaseResources-12 D:\Tekno\PTV\PTV App\build\audio_session\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.ryanheise.audio_session-mergeReleaseResources-13 D:\Tekno\PTV\PTV App\build\audio_session\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.ryanheise.audio_session-merged_res-14 D:\Tekno\PTV\PTV App\build\audio_session\intermediates\merged_res\release
