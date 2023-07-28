@@ -5,4 +5,4 @@ workflows:
       flutter: latest
     scripts:
       - name: Build APK without sound null safety
-        script: flutter build apk --no-sound-null-safety
+        script: flutter build ipa --no-sound-null-safety
