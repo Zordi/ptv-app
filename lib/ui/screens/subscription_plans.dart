@@ -227,7 +227,7 @@ class _SubscriptionPlanState extends State<SubscriptionPlan> {
     code = "$code".toLowerCase();
     code = 'Iso4217Code.$code'.toString();
     var symbol;
-   
+
     if (symbol == null) {
       code = code.replaceAll("Iso4217Code.", "");
       code = code.toUpperCase();
